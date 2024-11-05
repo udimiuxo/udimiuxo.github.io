@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udimiuxo.github.io/YFp/sitemap_index.txt
+Sitemap: https://udimiuxo.github.io/bYh/sitemap_index.txt
+Sitemap: https://udimiuxo.github.io/lYB/sitemap_index.txt
+Sitemap: https://udimiuxo.github.io/mLS/sitemap_index.txt
